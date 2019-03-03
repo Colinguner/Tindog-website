@@ -1,2 +1,2 @@
 Responsive website built with Js, Jquery and Bootstrap.
-https://colinguner.github.io/SimonGameJs/.
+https://colinguner.github.io/Tindog-website/
